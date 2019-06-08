@@ -3,3 +3,19 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+/* Mobile */
+
+@media only screen and (max-width: 400px) {
+
+}
+/* Tablet */
+@media only screen and (min-width: 401px) and (max-width: 960px) {
+
+}
+
+/* Desktop */
+
+@media only screen and (min-width: 961px){
+
+}
